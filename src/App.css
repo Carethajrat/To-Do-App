@@ -1,0 +1,21 @@
+*{
+  padding:0;
+  margin: 0;
+}
+body{
+  width: 100%;
+  height: 1000px;
+  background-color: rgba(237, 217, 194, 0.92);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
