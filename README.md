@@ -41,5 +41,15 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 And this is how my Mobile Friendly React To-Do App looks like.
 
+# Home page
+![Screenshot (305)](https://user-images.githubusercontent.com/113019349/223984849-c49a9b64-237f-41aa-8e42-c0a4e2bd21b2.png)
+
+# Tasks Added
+![Screenshot (306)](https://user-images.githubusercontent.com/113019349/223985188-cf659769-8184-47c3-b3bf-e8afc1ee9c59.png)
+
+# Task Deleted !
+![Screenshot (307)](https://user-images.githubusercontent.com/113019349/223985388-4b3847e6-89ea-4b91-9b95-465ae7a73413.png)
+
+
 See yaa !
 
