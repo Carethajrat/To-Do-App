@@ -3,7 +3,8 @@
 # Getting Started with To-Do React App
 
 To begin with:
-Replace The Public and src in your react app once you complete installing react globally by using 
+
+Complete installing react globally by using 
 `npm install -g create-react-app` afterwords Create App using `npx create-react-app my-app`
 Change your directory to my-app using `cd my-app`
 To Run the app write `npm start` in your terminal(I highly recommend  you use VS Code Editor)
